@@ -1,4 +1,4 @@
-# CS5010 HW1 - Kaiyue Lin 002201108 
+# CS5010 HW1
 
 ## New Feature
 
